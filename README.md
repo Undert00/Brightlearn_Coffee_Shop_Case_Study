@@ -1,1 +1,1 @@
-# Brightlearn_Coffee_Shop_Case_Study
+# Bright_Coffee_Shop_Case_Study
